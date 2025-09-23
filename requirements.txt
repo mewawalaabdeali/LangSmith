@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-openai
+dotenv
+langchain-community
+langchain-core
+
+SQLAlchemy
+streamlit
+pandas
